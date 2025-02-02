@@ -1,0 +1,8 @@
+{
+    "6281234567890": {
+        "method": "dana",
+        "nominal": 15000,
+        "idtrx": "123",
+        "status": "pending"
+    }
+}
